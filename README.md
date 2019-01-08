@@ -47,8 +47,8 @@ Personal Reflection and Project Development Blog - <a href="https://marksleatorf
 
 <h1>360 Photographs</h1>
 
-<a href="https://www.flickr.com/photos/135821569@N07/sets/72157675352921347">St. Patricks Cathedral</a>
-<a href="https://www.flickr.com/photos/135821569@N07/albums/72157688514739493">St. Patricks Cathedral (Ancient)</a>
-<a href="https://www.flickr.com/photos/135821569@N07/albums/72157704046964941">Crumlin Road Gaol</a>
-<a href="https://www.flickr.com/photos/135821569@N07/albums/72157705552524324">Dunluce Castle</a>
+<a href="https://www.flickr.com/photos/135821569@N07/sets/72157675352921347">St. Patricks Cathedral</a><p></p>
+<a href="https://www.flickr.com/photos/135821569@N07/albums/72157688514739493">St. Patricks Cathedral (Ancient)</a><p></p>
+<a href="https://www.flickr.com/photos/135821569@N07/albums/72157704046964941">Crumlin Road Gaol</a><p></p>
+<a href="https://www.flickr.com/photos/135821569@N07/albums/72157705552524324">Dunluce Castle</a><p></p>
 
