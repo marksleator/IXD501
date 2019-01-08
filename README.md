@@ -45,4 +45,7 @@ Personal Reflection and Project Development Blog - <a href="https://marksleatorf
 <a href="https://7-vr-tour.glitch.me/">Prototype #7</a> - 
 <a href="https://glitch.com/~7-vr-tour">View Code</a>
 
+<h1>360 Photographs</h1>
+
+<a href="https://7-vr-tour.glitch.me/">Prototype #7</a>
 
