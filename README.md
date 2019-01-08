@@ -3,10 +3,21 @@
 <h1>Blogs</h1>
 
 Inspiration Blog - <a href="http://marksleatorblog.tumblr.com/">Tumblr</a> 
+<p>This blog contains all the things that inspired me throughout this project.</p>
 
 Personal Reflection and Project Development Blog - <a href="https://marksleatorfinalyear.tumblr.com/">Tumblr</a>
-
-
+<p>This blog contains the following - </p>
+<ul>
+  <li>Market Research</li>
+  <li>Wireframes</li>
+  <li>User Personas</li>
+  <li>App Flow</li>
+  <li>Card Sorting</li>
+  <li>Branding</li>
+  <li>App Development</li>
+  <li>Usability Testing</li>
+  <li>Etc</li>
+</ul>
 <h1>Prototypes</h1> 
 
 **FOR BEST RESULTS VIEW USING VR HEADSET OR ON MOBILE PHONE USING MOZILLA FIREFOX**
