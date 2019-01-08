@@ -1,6 +1,6 @@
 # IXD501
 
-Blogs
+<h1>Blogs</h1>
 
 Inspiration Blog - <a href="http://marksleatorblog.tumblr.com/">Tumblr</a> 
 
