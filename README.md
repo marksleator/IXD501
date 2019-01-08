@@ -6,7 +6,8 @@ Inspiration Blog - <a href="http://marksleatorblog.tumblr.com/">Tumblr</a>
 
 Personal Reflection and Project Development Blog - <a href="https://marksleatorfinalyear.tumblr.com/">Tumblr</a>
 
-Prototypes 
+
+<h1>Prototypes</h1> 
 
 **FOR BEST RESULTS VIEW USING VR HEADSET OR ON MOBILE PHONE USING MOZILLA FIREFOX**
 
@@ -30,3 +31,5 @@ Prototypes
 
 <a href="https://7-vr-tour.glitch.me/">Prototype #7</a> - 
 <a href="https://glitch.com/~7-vr-tour">View Code</a>
+
+
