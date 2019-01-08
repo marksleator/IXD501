@@ -52,3 +52,5 @@ Personal Reflection and Project Development Blog - <a href="https://marksleatorf
 <a href="https://www.flickr.com/photos/135821569@N07/albums/72157704046964941">Crumlin Road Gaol</a><p></p>
 <a href="https://www.flickr.com/photos/135821569@N07/albums/72157705552524324">Dunluce Castle</a><p></p>
 
+<h1>A3 Pages</h1>
+<p>The prints out appeared discoloured so I have provided the A3 pages. They are the images above in the repository.</p>
