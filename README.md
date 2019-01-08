@@ -2,6 +2,6 @@
 
 Blogs
 
-Inspiration Blog - <a href="">Tumblr</a> 
+Inspiration Blog - <a href="http://marksleatorblog.tumblr.com/">Tumblr</a> 
 
 Personal Reflection and Project Development Blog - <a href="https://marksleatorfinalyear.tumblr.com/">Tumblr</a>
